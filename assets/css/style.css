@@ -1,0 +1,28 @@
+/*
+Custom css
+*/
+
+.text-b-purple {
+     color: #993399;
+}
+
+.text-b-teal {
+     color: #239987;
+}
+
+.text-b-blue {
+     color: #17A2B8;
+}
+
+.text-b-purple-dark {
+     color: #4D124D;
+}
+
+.text-b-teal-dark {
+     color: #154D44;
+}
+
+.bg-b-teal {
+     background-color: #239987;
+     color: white;
+}
